@@ -4,3 +4,9 @@
 3. git add <file_name>		-> add file_name to the staging area 
 4. git add . 			-> add all updated files to the staging area
 5. git commit -m "first commit"	-> commit the changes made with the message
+
+
+
+6. git branch 			-> to see available branches in git 
+7. git branch Branch_1		-> created new branch named as Branch_1
+8. 
