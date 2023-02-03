@@ -1,0 +1,6 @@
+
+1. git init 			-> used to intialize when to create new repository locally
+2. git status 			-> used to check the branch and working status of file 
+3. git add <file_name>		-> add file_name to the staging area 
+4. git add . 			-> add all updated files to the staging area
+5. git commit -m "first commit"	-> commit the changes made with the message
